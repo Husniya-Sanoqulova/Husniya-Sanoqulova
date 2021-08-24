@@ -15,5 +15,5 @@ GitMemory: https://gitmemory.com/Husniya-Sanoqulova
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Husniya-Sanoqulova)](https://github.com/Husniya-Sanoqulova)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Husniya-Sanoqulova)](https://t.me/Husniya-Sanoqulova)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/angelina_115_20_05/)](https://www.instagram.com/Husniya-Sanoqulova/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/angelina_115_20_05/)](https://www.instagram.com/angelina_115_20_05/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsanoqulova777@gmail.com)
