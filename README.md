@@ -1,6 +1,6 @@
-![TN1SlJb8](https://user-images.githubusercontent.com/89189550/130553227-17424e34-a997-4f21-996a-2d31b04f406b.gif)
-
 ## Assalom alaykum!
+
+![TN1SlJb8](https://user-images.githubusercontent.com/89189550/130553227-17424e34-a997-4f21-996a-2d31b04f406b.gif)
 
 ## Sanoqulova Husniya, FullStack Web Developer. 
 ### +998-(xx)-xxx-xx-xx ⏩⏩⏩ hsanoqulova777@gmail.com
